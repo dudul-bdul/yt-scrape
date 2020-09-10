@@ -1,0 +1,12 @@
+{
+    "name": "youtube-scrape",
+    "version": "0.1.0",
+    "description": "Scrape YouTube",
+    "main": "server.js",
+    "author": "dudul",
+    "dependencies": {
+        "express": "latest",
+        "request": "latest",
+        "cheerio": "latest"
+    }
+}
